@@ -133,7 +133,7 @@ p {
   margin: 4px;
   color: black;
   font-family: sans-serif;
-  font-size: 1.17em;
+  font-size: 1em;
   font-weight: bold;
   /* background-color: #0d4b46; */
   /* border-radius: 4px; */
@@ -205,7 +205,7 @@ p {
 .languages-item {
   color: black;
   font-family: sans-serif;
-  font-size: 1.17em;
+  font-size: 1em;
   font-weight: bold;
 }
 
